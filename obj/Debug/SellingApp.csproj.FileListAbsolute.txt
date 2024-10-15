@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\SellingApp\bin\Debug\SellingApp.exe.config
+C:\Users\user\source\repos\SellingApp\bin\Debug\SellingApp.exe
+C:\Users\user\source\repos\SellingApp\bin\Debug\SellingApp.pdb
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.Form1.resources
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.Properties.Resources.resources
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.exe
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.pdb
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.Customers.resources
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.Product.resources
+C:\Users\user\source\repos\SellingApp\obj\Debug\SellingApp.Selling.resources
